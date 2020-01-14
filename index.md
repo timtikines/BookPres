@@ -16,56 +16,56 @@
 				});
 			});
 		</script>-->
-		<title>Book de présentation - Lat Dior Thiam</title>
+		<title>Book de prÃ©sentation - Lat Dior Thiam</title>
 	</head>
 	<body>
 		<div id="header">
-			<p id="name"><b>Book de présentation de Lat Dior Thiam</b></p>
+			<p id="name"><b>Book de prÃ©sentation de Lat Dior Thiam</b></p>
 		</div>
 		<div class="menu">
 			<h3><a href="https://dl.dropboxusercontent.com/u/31908708/CV_Lat_Dior_THIAM.pdf" target="_blank"><u>CV</u></a></h3>
 			<h3><a href="#Form"><u>Formation</u></a></h3>
-			<h3><a href="#Exp"><u>Expérience</u></a></h3>
-			<h3><a href="#Comp"><u>Compétences</u></a></h3>
+			<h3><a href="#Exp"><u>ExpÃ©rience</u></a></h3>
+			<h3><a href="#Comp"><u>CompÃ©tences</u></a></h3>
 			<h3>Projet</a></h3>
 			<ul>
-				<li><a href="#Pro1"><u>Projet n°1</u></a></li>
-				<li><a href="#Pro2"><u>Projet n°2</u></a></li>
-				<li><a href="#Pro3"><u>Projet n°3</u></a></li>
+				<li><a href="#Pro1"><u>Projet nÂ°1</u></a></li>
+				<li><a href="#Pro2"><u>Projet nÂ°2</u></a></li>
+				<li><a href="#Pro3"><u>Projet nÂ°3</u></a></li>
 			</ul>
 			<h3><a href="mailto:latdior.thiam@gmail.com" target="_blank"><u>Contactez-moi</u></a></h3>
 			<h3><a href="https://plus.google.com/106181410957798458607" target="_blank"><u>Google+</u></a></h3>
 		</div>
 		<div class="text">
 			<h4 id="Form">Formation</h4>
-			<p><br><b>2012/2013 : </b>niveau master 1 MAPI-Management de Projets Innovants, parcours MAJE-Management dans le Jeux Vidéo à Polytech' Nice - Sophia-Antipolis à Cannes</p>
-			<p><b>2012 : </b>Licence Informatique à l'université Paris 8 Vincennes - Saint-Denis</p>
-			<p><b>2009 : </b>BTS ATI-Assistance Technique d'Ingénieur au lycée Jacquard-Paris 20ème</p>
-			<p><b>2006 : </b>Bac Professionnel Electrotechnique, <b>mention "Assez Bien"</b>, au lycée Marcel Deprez-Paris 11ème</p>
-			<h4 id="Exp">Expérience</h4>
-			<p><br><u>Octobre 2012 à Mars 2013</u></p>
+			<p><br><b>2012/2013 : </b>niveau master 1 MAPI-Management de Projets Innovants, parcours MAJE-Management dans le Jeux VidÃ©o Ã  Polytech' Nice - Sophia-Antipolis Ã  Cannes</p>
+			<p><b>2012 : </b>Licence Informatique Ã  l'universitÃ© Paris 8 Vincennes - Saint-Denis</p>
+			<p><b>2009 : </b>BTS ATI-Assistance Technique d'IngÃ©nieur au lycÃ©e Jacquard-Paris 20Ã¨me</p>
+			<p><b>2006 : </b>Bac Professionnel Electrotechnique, <b>mention "Assez Bien"</b>, au lycÃ©e Marcel Deprez-Paris 11Ã¨me</p>
+			<h4 id="Exp">ExpÃ©rience</h4>
+			<p><br><u>Octobre 2012 Ã  Mars 2013</u></p>
 			<ul>
-				<li>projet universitaire dans le domaine du Jeux Vidéo à Polytech' Nice - Sophia-Antipolis</li>
+				<li>projet universitaire dans le domaine du Jeux VidÃ©o Ã  Polytech' Nice - Sophia-Antipolis</li>
 				<ul>
-					<br><li>Game Designer et Testeur qualité sur le projet d'application IPad "Structuring" En collaboration avec l'espace Turing de Nice</li>
+					<br><li>Game Designer et Testeur qualitÃ© sur le projet d'application IPad "Structuring" En collaboration avec l'espace Turing de Nice</li>
 				</ul>
 			</ul>
-			<p><br><u>Juin à Juillet 2012</u></p>
+			<p><br><u>Juin Ã  Juillet 2012</u></p>
 			<ul>
-				<li>stage dans le domaine informatique à la MICEFA-Mission Interuniversitaire de Coordination et d'Echanges Franco-Américains</li>
+				<li>stage dans le domaine informatique Ã  la MICEFA-Mission Interuniversitaire de Coordination et d'Echanges Franco-AmÃ©ricains</li>
 				<ul>
-					<br><li>Chargé de la migration d'une base de données utilisant le logiciel FileMaker Pro vers une nouvelle base de données réalisée en PHP/MySQL</li>
+					<br><li>ChargÃ© de la migration d'une base de donnÃ©es utilisant le logiciel FileMaker Pro vers une nouvelle base de donnÃ©es rÃ©alisÃ©e en PHP/MySQL</li>
 				</ul>
 			</ul>
-			<p><br><u>Septembre 2008 à Juin 2009</u></p>
+			<p><br><u>Septembre 2008 Ã  Juin 2009</u></p>
 			<ul>
-				<li>Stage dans le domaine industriel au lycée Jacquard</li>
+				<li>Stage dans le domaine industriel au lycÃ©e Jacquard</li>
 				<ul>
-					<br><li>Chargé d'une étude de coût concernant la création, la commande et l'installation d'un capot de protection sur une maquette d'évaluation de direction assistée de Renault Twingo du lycée Jacquard</li>
-					<li>Chargé de la remise à niveau d'une maquette d'évaluation de direction assistée de Renault Twingo du lycée Jacquard</li>
+					<br><li>ChargÃ© d'une Ã©tude de coÃ»t concernant la crÃ©ation, la commande et l'installation d'un capot de protection sur une maquette d'Ã©valuation de direction assistÃ©e de Renault Twingo du lycÃ©e Jacquard</li>
+					<li>ChargÃ© de la remise Ã  niveau d'une maquette d'Ã©valuation de direction assistÃ©e de Renault Twingo du lycÃ©e Jacquard</li>
 				</ul>
 			</ul>
-			<h4 id="Comp">Compétences</h4>
+			<h4 id="Comp">CompÃ©tences</h4>
 			<p><br><u>Logiciels</u></p>
 			<ul>
 				<li>Microsoft Office (Word, Excel, Powerpoint)</li>
@@ -78,23 +78,23 @@
 			<ul>
 				<li>C, C++, Java, PHP/MySQL, HTML/CSS/jQuery</li>
 			</ul>
-			<p><br><u>Système d'exploitation</u></p>
+			<p><br><u>SystÃ¨me d'exploitation</u></p>
 			<ul>
 				<li>Linux, Windows Vista/7</li>
 			</ul>
 			<p><br><u>Langue</u></p>
 			<ul>
-				<li>Français (langue natal)</li>
-				<li>Anglais (intermédiaire)</li>
+				<li>FranÃ§ais (langue natal)</li>
+				<li>Anglais (intermÃ©diaire)</li>
 			</ul>
 			<h4>Projet</h4>
-			<p id="Pro1"><br><b>Projet n°1 (universitaire)</b></p>
+			<p id="Pro1"><br><b>Projet nÂ°1 (universitaire)</b></p>
 			<ul>
 				<ol><b>Nom Projet : </b>Ground Zero</ol><br>
 				<ol><b>Date : </b>2010-2011</ol><br>
 				<ol><b>Support : </b>PC</ol><br>
-				<ol><b>Poste occupée : </b>Chef de Projet, Game Designer</ol><br>
-				<ol><b>Descriptif projet : </b>Ce projet portait sur la création d'un jeu de stratégie au tour par tour dans un univers d'heroic-fantasy. L'utilisateur avait le choix de jouer contre un autre joueur ou contre l'ordinateur.</ol><br>
+				<ol><b>Poste occupÃ©e : </b>Chef de Projet, Game Designer</ol><br>
+				<ol><b>Descriptif projet : </b>Ce projet portait sur la crÃ©ation d'un jeu de stratÃ©gie au tour par tour dans un univers d'heroic-fantasy. L'utilisateur avait le choix de jouer contre un autre joueur ou contre l'ordinateur.</ol><br>
 				<ol><br><b>Image et document du projet : </b></ol>
 				<br>
 				<div>
@@ -104,13 +104,13 @@
 					<ol class="link"><a class="a1" href="https://dl.dropboxusercontent.com/u/31908708/Ground%20Zero.zip">Ground Zero.zip</a></ol>
 				</div>
 			</ul><br>
-			<p id="Pro2"><br><b>Projet n°2 (universitaire)</b></p>
+			<p id="Pro2"><br><b>Projet nÂ°2 (universitaire)</b></p>
 			<ul>
 				<ol><b>Nom Projet : </b>Cycle</ol><br>
 				<ol><b>Date : </b>2011-2012</ol><br>
 				<ol><b>Support : </b>PC</ol><br>
-				<ol><b>Poste occupée : </b>Game/Level Designer, Développeur</ol><br>
-				<ol><b>Descriptif projet : </b>Ce projet portait sur la création d'un jeu d'aventure à l'ancienne. C'était l'histoire d'un cobaye, prisonnier dans une base militaire, voulant tout faire pour arrêter une expèrience qui avait mal tourner tout en recherchant sa propre identité. Le joueur évoluait dans un grand labyrinthe répartit en plusieurs niveaux. Ce jeu avait comme inspiration les jeux d'aventure textuel comme <u><a class="a1" href="http://en.wikipedia.org/wiki/Colossal_Cave_Adventure" target="_blank">"Colossal Cave Adventure".</u></a></ol><br>
+				<ol><b>Poste occupÃ©e : </b>Game/Level Designer, DÃ©veloppeur</ol><br>
+				<ol><b>Descriptif projet : </b>Ce projet portait sur la crÃ©ation d'un jeu d'aventure Ã  l'ancienne. C'Ã©tait l'histoire d'un cobaye, prisonnier dans une base militaire, voulant tout faire pour arrÃªter une expÃ¨rience qui avait mal tourner tout en recherchant sa propre identitÃ©. Le joueur Ã©voluait dans un grand labyrinthe rÃ©partit en plusieurs niveaux. Ce jeu avait comme inspiration les jeux d'aventure textuel comme <u><a class="a1" href="http://en.wikipedia.org/wiki/Colossal_Cave_Adventure" target="_blank">"Colossal Cave Adventure".</u></a></ol><br>
 				<ol><br><b>Image et document du projet : </b></ol>
 				<br>
 				<div>
@@ -120,13 +120,13 @@
 					<ol class="link"><a class="a1" href="https://dl.dropboxusercontent.com/u/31908708/Cycle.zip">Cycle.zip</a></ol>
 				</div>
 			</ul><br>
-			<p id="Pro3"><br><b>Projet n°3 (universitaire)</b></p>
+			<p id="Pro3"><br><b>Projet nÂ°3 (universitaire)</b></p>
 			<ul>
 				<ol><b>Nom Projet : </b>Structuring</ol><br>
 				<ol><b>Date : </b>2012-2013</ol><br>
 				<ol><b>Support : </b>IPad</ol><br>
-				<ol><b>Poste occupée : </b>Game Designer/Ergonome, Testeur Qualité, Chargé de localisation (Français/Anglais)</ol><br>
-				<ol><b>Descriptif projet : </b>Le projet "Structuring", a été réalisé en partenariat avec l'espace Turing de Nice. Le but de ce projet était de créer une application bilingue Français/Anglais à destination de la plateforme IPad qui donnerait un aperçu ludique du travail d'Alan Turing. Cette application était destiné aux collégiens qui visitent chaque année cet espace. L'application comprend des jeux reposant sur le travail d'Alan Turing et d'Hao Wang, deux mathématiciens dont leurs parcours et leurs travaux sont présentés à l'espace Turing.</ol><br>
+				<ol><b>Poste occupÃ©e : </b>Game Designer/Ergonome, Testeur QualitÃ©, ChargÃ© de localisation (FranÃ§ais/Anglais)</ol><br>
+				<ol><b>Descriptif projet : </b>Le projet "Structuring", a Ã©tÃ© rÃ©alisÃ© en partenariat avec l'espace Turing de Nice. Le but de ce projet Ã©tait de crÃ©er une application bilingue FranÃ§ais/Anglais Ã  destination de la plateforme IPad qui donnerait un aperÃ§u ludique du travail d'Alan Turing. Cette application Ã©tait destinÃ© aux collÃ©giens qui visitent chaque annÃ©e cet espace. L'application comprend des jeux reposant sur le travail d'Alan Turing et d'Hao Wang, deux mathÃ©maticiens dont leurs parcours et leurs travaux sont prÃ©sentÃ©s Ã  l'espace Turing.</ol><br>
 				<ol><br><b>Image et document du projet : </b></ol>
 				<br>
 				<div>
@@ -138,7 +138,7 @@
 			</ul>
 		</div>
 		<div id="footer">
-			<p>Site et mise en page réalisé par Lat Dior THIAM | Site hébergé par <u><a href="http://pages.github.com" target="_blank">GitHub</a></u></p>
+			<p>Site et mise en page rÃ©alisÃ© par Lat Dior THIAM | Site hÃ©bergÃ© par <u><a href="http://pages.github.com" target="_blank">GitHub</a></u></p>
 		</div>
 	<!--<script src="script/jquery-ui.js"></script>
 	<script type="text/javascript" src="script/script.js"></script>-->
